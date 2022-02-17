@@ -1,0 +1,13 @@
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.exe
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.deps.json
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.runtimeconfig.json
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.runtimeconfig.dev.json
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.dll
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\bin\Debug\netcoreapp3.1\AbstraçãoRPG.pdb
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.csprojAssemblyReference.cache
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.AssemblyInfoInputs.cache
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.AssemblyInfo.cs
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.csproj.CoreCompileInputs.cache
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.dll
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.pdb
+C:\GIT\DIO-Exemplo\GFT\AbstraçãoRPG\obj\Debug\netcoreapp3.1\AbstraçãoRPG.genruntimeconfig.cache
